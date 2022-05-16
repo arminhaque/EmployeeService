@@ -1,4 +1,4 @@
-package com.example.todos.taskapp.Dto;
+package com.example.todos.taskapp.Model.Dto;
 
 import lombok.Data;
 

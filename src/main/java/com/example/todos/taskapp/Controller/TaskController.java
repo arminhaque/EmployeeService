@@ -1,6 +1,6 @@
 package com.example.todos.taskapp.Controller;
 
-import com.example.todos.taskapp.Dto.TaskDto;
+import com.example.todos.taskapp.Model.Dto.TaskDto;
 import com.example.todos.taskapp.Service.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

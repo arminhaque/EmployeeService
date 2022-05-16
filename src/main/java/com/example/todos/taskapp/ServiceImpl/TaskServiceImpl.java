@@ -1,6 +1,6 @@
 package com.example.todos.taskapp.ServiceImpl;
 
-import com.example.todos.taskapp.Dto.TaskDto;
+import com.example.todos.taskapp.Model.Dto.TaskDto;
 import com.example.todos.taskapp.Model.TaskModel;
 import com.example.todos.taskapp.Repository.TaskRepository;
 import com.example.todos.taskapp.Service.TaskService;
